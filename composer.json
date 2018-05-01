@@ -9,6 +9,11 @@
             "name": "John Slegers",
             "email": "slegersjohn@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Karl Schipul",
+            "email": "contact@3ringprototype.com",
+            "role": "Developer and hacker"
         }
     ],
     "require": {
