@@ -19,7 +19,6 @@ $data = array(
 
 // PROCESS PAGE
 // ---------------
-
 require LOCAL_PATH_PAGES . PAGE_PATH . '.php';
 
 // PROCESS HEAD
